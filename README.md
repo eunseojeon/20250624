@@ -175,26 +175,22 @@ W3Schools는 코드 예제를 직접 실행할 수 있는 "Try it Yourself" 기�
 4. 예시 페이지: Java Syntax - Try it Yourself
 
 ## 3. ✅ 실행 가능한 예제 구성
-W3Schools의 Java "Try it Yourself" 에디터는 아래와 같은 기본 구조의 코드를 제공
+1. W3Schools의 Java "Try it Yourself" 에디터는 기본 구조의 코드를 제공
+2. 코드를 수정하고 Run을 누르면 오른쪽에서 실행 결과(Hello World)를 바로 볼 수 있음
+3. 단, W3Schools는 Java 코드를 실제 JDK 기반으로 실행하는 것은 아니고, 일부 단순 실행만 가능
 
-public class Main {
-  public static void main(String[] args) {
-    System.out.println("Hello World");
-  }
-}
+   
+## 4. ✅ 한계와 참고사항
+- W3Schools는 자바 학습을 위한 기초 문법 연습엔 좋지만, 복잡한 프로젝트나 외부 라이브러리 사용 등은 불가능
+- 실제 개발을 위해선 IntelliJ, Eclipse, VSCode 같은 개발환경에서 JDK를 설치해서 연습하는 게 더 좋음
 
-코드를 수정하고 Run을 누르면 오른쪽에서 실행 결과(Hello World)를 바로 볼 수 있어.
-단, W3Schools는 Java 코드를 실제 JDK 기반으로 실행하는 것은 아니고, 일부 단순 실행만 가능해.
-✅ 4. 한계와 참고사항
-W3Schools는 자바 학습을 위한 기초 문법 연습엔 좋지만, 복잡한 프로젝트나 외부 라이브러리 사용 등은 불가능해.
-실제 개발을 위해선 IntelliJ, Eclipse, VSCode 같은 개발환경에서 JDK를 설치해서 연습하는 게 더 좋아.
-✅ 5. 그래도 좋은 이유는?
-설치 없이 자바 코드를 바로 실행해볼 수 있음
-설명이 쉬워서 초보자에게 적합
-HTML이나 JavaScript 등과 함께 자바도 간단히 익힐 수 있음
+## 5. ✅ 그래도 좋은 이유는?
+- 설치 없이 자바 코드를 바로 실행해볼 수 있음
+- 설명이 쉬워서 초보자에게 적합
+- HTML이나 JavaScript 등과 함께 자바도 간단히 익힐 수 있음
 📌 마무리 팁
-W3Schools는 자바를 처음 접할 때 유용한 튜토리얼과 실습 기능을 제공해.
-처음부터 무리하지 말고 간단한 코드부터 천천히 따라가다 보면, 금방 익숙해질 수 있어!
+- W3Schools는 자바를 처음 접할 때 유용한 튜토리얼과 실습 기능을 제공
+- 처음부터 무리하지 말고 간단한 코드부터 천천히 따라가다 보면, 금방 익숙해질 수 있다
 
 
 ---
