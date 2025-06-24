@@ -148,9 +148,13 @@ GitHub에서는 `README.md` 파일을 통해 마크다운을 많이 사용합니
 1. **코드 셀** 선택
 2. 파이썬 코드 입력 
 3. **실행** 하면 결과가 아래에 나옴
+---
 
 ## 2. About Python3
 - [Python basic](./docs/python3.md)
+- https://www.w3schools.com/
+
+---
 
 ## 3.  data structure / data sciencs
 
