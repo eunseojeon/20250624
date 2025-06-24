@@ -39,6 +39,7 @@
 4. **Public/Private 선택**
 5. **README.md 파일 생성 체크**
 6. **Create repository 버튼 클릭**
+
    
 ![create_repository](https://github.com/user-attachments/assets/8c2eb16b-8dfc-465a-88cd-d35770d12df0)
 
