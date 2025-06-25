@@ -12,6 +12,9 @@ print("Hello")  # 들여쓰기 없음 - 에러!
 if True:
 1234 print("Hello")  # 스페이스 4개, 4칸띄기기
 
+<img width="593" alt="스크린샷 2025-06-25 09 15 11" src="https://github.com/user-attachments/assets/9cbf8641-b651-435e-86e8-6b40e4930206" />
+
+
 
 대소문자 구분
 Python은 대소문자를 구분합니다
