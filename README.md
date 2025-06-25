@@ -5,6 +5,10 @@
 - [Markdown 문법](markdown-문법)  
 - [Colab 기초](colab-기초)
 
+  ## 2. About Python3
+- [Python basic](./python3.md)
+- https://www.w3schools.com/
+
 ## GitHub 사용법
 
 ### ✅ GitHub 계정 만드는 순서 (2025년 기준)
