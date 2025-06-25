@@ -151,7 +151,7 @@ GitHub에서는 `README.md` 파일을 통해 마크다운을 많이 사용합니
 ---
 
 ## 2. About Python3
-- [Python basic](./docs/python3.md)
+- [Python basic](./python3.md)
 - https://www.w3schools.com/
 
 ## Python에서 주의해야 할 점들
